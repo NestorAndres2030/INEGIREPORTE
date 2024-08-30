@@ -1,0 +1,241 @@
+[ {
+  "baseItem" : {
+    "id" : "_21fx0GSlEe-417HGILfQsQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_12xIkGV9Ee-qp4OpcxEGFw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_nBV4MGSHEe-aIeFQb33h0g",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "HashRoutines",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "_nBV4MGSHEe-aIeFQb33h0g - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_2m05IGSkEe-417HGILfQsQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "R422:_UQMTMGWAEe-qp4OpcxEGFw",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "R422:_uga6EGShEe-aIeFQb33h0g",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "HashRoutines",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_4D0kAGZDEe-F4dppsB-5aA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_i0j6sGGSEe-RguFsNNcVfw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "FileUtils",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_8WeSkE9mEe-IntlARtnzMA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_i0j6sGGSEe-RguFsNNcVfw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_kVng8GGWEe-RguFsNNcVfw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "REPORTES_REGULATORIOS:_WW8moF8lEe-AfIOPAWzPxQ",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "REPORTES_REGULATORIOS:_zVjoAF9GEe-AfIOPAWzPxQ",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "GeneradorFechas",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "PrepararJob",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_UQMTMGWAEe-qp4OpcxEGFw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_12xIkGV9Ee-qp4OpcxEGFw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "HashRoutines",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_WW8moF8lEe-AfIOPAWzPxQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_5EDbsGGSEe-RguFsNNcVfw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_i0j6sGGSEe-RguFsNNcVfw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_xFxkUEhpEe-zd4Rj94Q5YA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "PrepararJob",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "_GDHtYEndEe-2c5yrAkhNew - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_xFxkUEhpEe-zd4Rj94Q5YA - DIM_INV_PERM_SUBTOTAL",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_eIa7sGZ0Ee-X46Kk26GV8Q",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_5EDbsGGSEe-RguFsNNcVfw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_i0j6sGGSEe-RguFsNNcVfw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "DBUtils",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_hHAgsGWYEe-qp4OpcxEGFw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_12xIkGV9Ee-qp4OpcxEGFw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "HashRoutines",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_kmkaIGaQEe-sesTBaqPY5w",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_5EDbsGGSEe-RguFsNNcVfw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_i0j6sGGSEe-RguFsNNcVfw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "DBUtils",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_uga6EGShEe-aIeFQb33h0g",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_foE4gGRvEe-bLY0g5wzn0g",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "HashRoutines",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "_foE4gGRvEe-bLY0g5wzn0g - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_ulWcUGVwEe-qp4OpcxEGFw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "R422:_GLDRYGVoEe-qp4OpcxEGFw",
+    "version" : "Latest",
+    "type" : "job"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_zVjoAF9GEe-AfIOPAWzPxQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_5EDbsGGSEe-RguFsNNcVfw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_i0j6sGGSEe-RguFsNNcVfw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "PrepararJob",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "_ESPmoFElEe-bkc-Q6SligA - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]

@@ -1,0 +1,33 @@
+{
+  "itemId" : "_8WeSkE9mEe-IntlARtnzMA",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_i0j6sGGSEe-RguFsNNcVfw",
+    "parameterList" : [ {
+      "id" : "_i0xWEWGSEe-RguFsNNcVfw",
+      "name" : "dbhost"
+    }, {
+      "id" : "_wnyaAGGSEe-RguFsNNcVfw",
+      "name" : "dbname"
+    }, {
+      "id" : "_wnyaAWGSEe-RguFsNNcVfw",
+      "name" : "dbpassword"
+    }, {
+      "id" : "_wnyaA2GSEe-RguFsNNcVfw",
+      "name" : "dbport"
+    }, {
+      "id" : "_wnyaBGGSEe-RguFsNNcVfw",
+      "name" : "dbschema"
+    }, {
+      "id" : "_wnyaAmGSEe-RguFsNNcVfw",
+      "name" : "dbuser"
+    } ]
+  }, {
+    "contextName" : "Default",
+    "repoId" : "_kVng8GGWEe-RguFsNNcVfw",
+    "parameterList" : [ {
+      "id" : "_kVx5AWGWEe-RguFsNNcVfw",
+      "name" : "OUTPUT_bxco26"
+    } ]
+  } ]
+}

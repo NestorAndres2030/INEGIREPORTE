@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_oqgQoGZDEe-F4dppsB-5aA" label="InegiReporte" description="" language="java" technicalLabel="INEGIREPORTE" local="true" author="_oqgQoWZDEe-F4dppsB-5aA" productVersion="Talend Data Management Platform-8.0.1.20240820_0946-patch" type="DQ" itemsRelationVersion="1.3" bigData="false">
+    <migrationTask xmi:id="_oqlJPmZDEe-F4dppsB-5aA" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_oqgQoWZDEe-F4dppsB-5aA" login="rgcarrillo@quarksoft.net"/>
+</xmi:XMI>

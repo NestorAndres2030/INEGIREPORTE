@@ -1,0 +1,17 @@
+{
+  "itemId" : "_UQMTMGWAEe-qp4OpcxEGFw",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_12xIkGV9Ee-qp4OpcxEGFw",
+    "parameterList" : [ {
+      "id" : "_abQZMGV-Ee-qp4OpcxEGFw",
+      "name" : "DataFiles_PathRoot"
+    }, {
+      "id" : "_n5JhsGV-Ee-qp4OpcxEGFw",
+      "name" : "DataFiles_SubPathYYYYMM"
+    }, {
+      "id" : "_8N27kGV_Ee-qp4OpcxEGFw",
+      "name" : "NameFile_CfgNombrePolizaRefCol"
+    } ]
+  } ]
+}

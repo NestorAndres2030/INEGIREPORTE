@@ -1,0 +1,14 @@
+{
+  "itemId" : "_21fx0GSlEe-417HGILfQsQ",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_12xIkGV9Ee-qp4OpcxEGFw",
+    "parameterList" : [ {
+      "id" : "_abQZMGV-Ee-qp4OpcxEGFw",
+      "name" : "DataFiles_PathRoot"
+    }, {
+      "id" : "_n5JhsGV-Ee-qp4OpcxEGFw",
+      "name" : "DataFiles_SubPathYYYYMM"
+    } ]
+  } ]
+}
